@@ -43,3 +43,10 @@ Github: wadep23
 [Visit my Github](https://www.github.com/wadep23)
 
 Email: wadepfacer@gmail.com
+
+![take-notes-1](https://user-images.githubusercontent.com/79487809/120372600-a1e61d80-c2d4-11eb-88d4-97053b811226.jpg)
+![take-notes-2](https://user-images.githubusercontent.com/79487809/120372610-a3afe100-c2d4-11eb-8a66-e02b8542897d.jpg)
+![take-notes-3](https://user-images.githubusercontent.com/79487809/120372626-a7dbfe80-c2d4-11eb-8959-28d7de19bb20.jpg)
+![take-notes-4](https://user-images.githubusercontent.com/79487809/120372633-aa3e5880-c2d4-11eb-84f6-81dbcdc6024b.jpg)
+
+Heroku link:  https://dashboard.heroku.com/apps/guarded-ravine-11080
